@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "60F65934-A5D2-4634-87C7-13AA1F556AA2"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B77F90CF-42E7-4418-8215-58BBAD5310AF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KeysocCodingTest/DataBase/RealmManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "247"
+            endingLineNumber = "247">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "37686983-208D-4FF1-8520-C31F20E8FA30"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KeysocCodingTest/DataBase/RealmManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "238"
+            endingLineNumber = "238">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A95311CD-C317-4CD4-B726-2C29E237808C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KeysocCodingTest/DataBase/RealmManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "271"
+            endingLineNumber = "271">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B17EF9F5-6659-4892-898E-3F1765D2AC3E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KeysocCodingTest/Modules/SearchMusic/MusicModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "60"
+            endingLineNumber = "60"
+            landmarkName = "init?(map:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5215FC1A-3C22-40FB-9E6D-A5DCA909B522"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KeysocCodingTest/Modules/SearchMusic/JJSearchViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "94"
+            endingLineNumber = "94"
+            landmarkName = "binding()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5215FC1A-3C22-40FB-9E6D-A5DCA909B522 - bf22a0a8715b888e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 (Foundation.IndexPath) -&gt; () in KeysocCodingTest.JJSearchViewController.binding() -&gt; ()"
+                  moduleName = "KeysocCodingTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mario/Desktop/KeysocCodingTest/KeysocCodingTest/Modules/SearchMusic/JJSearchViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "89"
+                  endingLineNumber = "89"
+                  offsetFromSymbolStart = "1588">
+               </Location>
+               <Location
+                  uuid = "5215FC1A-3C22-40FB-9E6D-A5DCA909B522 - bf22a0a8715b886f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 (Foundation.IndexPath) -&gt; () in KeysocCodingTest.JJSearchViewController.binding() -&gt; ()"
+                  moduleName = "KeysocCodingTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mario/Desktop/KeysocCodingTest/KeysocCodingTest/Modules/SearchMusic/JJSearchViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "88"
+                  endingLineNumber = "88"
+                  offsetFromSymbolStart = "1588">
+               </Location>
+               <Location
+                  uuid = "5215FC1A-3C22-40FB-9E6D-A5DCA909B522 - be16c8c58a9281c6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 (Foundation.IndexPath) -&gt; () in KeysocCodingTest.JJSearchViewController.binding() -&gt; ()"
+                  moduleName = "KeysocCodingTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mario/Desktop/MarioGithub/MarioCodingTest/KeysocCodingTest/Modules/SearchMusic/JJSearchViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "88"
+                  endingLineNumber = "88"
+                  offsetFromSymbolStart = "1588">
+               </Location>
+               <Location
+                  uuid = "5215FC1A-3C22-40FB-9E6D-A5DCA909B522 - be16c8c58a92808c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 (Foundation.IndexPath) -&gt; () in KeysocCodingTest.JJSearchViewController.binding() -&gt; ()"
+                  moduleName = "KeysocCodingTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mario/Desktop/MarioGithub/MarioCodingTest/KeysocCodingTest/Modules/SearchMusic/JJSearchViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "94"
+                  endingLineNumber = "94"
+                  offsetFromSymbolStart = "1732">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F3FC0372-5976-472E-9FBB-DEFCAEC2FC55"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KeysocCodingTest/Modules/SearchMusic/SearchViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "121"
+            endingLineNumber = "121"
+            landmarkName = "Favorite(row:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "00537409-422E-4383-BA27-909265EAC9C4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KeysocCodingTest/Modules/SearchMusic/SearchViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "98"
+            endingLineNumber = "98"
+            landmarkName = "loadMoreData(completed:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "96C4078D-B6B9-46F4-A7CC-20D98FC26A66"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KeysocCodingTest/Modules/SearchMusic/SearchViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "64"
+            endingLineNumber = "64"
+            landmarkName = "refreshData(completed:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8F7D77A5-2848-4CDA-880A-7F44014D5768"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KeysocCodingTest/Modules/SearchMusic/JJSearchViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "setupUI()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8F7D77A5-2848-4CDA-880A-7F44014D5768 - 7f04b528d2a4ce9a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Bool) -&gt; () in closure #1 () -&gt; () in KeysocCodingTest.JJSearchViewController.setupUI() -&gt; ()"
+                  moduleName = "KeysocCodingTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mario/Desktop/KeysocCodingTest/KeysocCodingTest/Modules/SearchMusic/JJSearchViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "124">
+               </Location>
+               <Location
+                  uuid = "8F7D77A5-2848-4CDA-880A-7F44014D5768 - 7f04b528d2a4ce9a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Bool) -&gt; () in closure #1 () -&gt; () in KeysocCodingTest.JJSearchViewController.setupUI() -&gt; ()"
+                  moduleName = "KeysocCodingTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mario/Desktop/KeysocCodingTest/KeysocCodingTest/Modules/SearchMusic/JJSearchViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "496">
+               </Location>
+               <Location
+                  uuid = "8F7D77A5-2848-4CDA-880A-7F44014D5768 - 7f04b528d2a4cef9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Bool) -&gt; () in closure #1 () -&gt; () in KeysocCodingTest.JJSearchViewController.setupUI() -&gt; ()"
+                  moduleName = "KeysocCodingTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mario/Desktop/KeysocCodingTest/KeysocCodingTest/Modules/SearchMusic/JJSearchViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "496">
+               </Location>
+               <Location
+                  uuid = "8F7D77A5-2848-4CDA-880A-7F44014D5768 - 7e30dd45296dd7a2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Bool) -&gt; () in closure #1 () -&gt; () in KeysocCodingTest.JJSearchViewController.setupUI() -&gt; ()"
+                  moduleName = "KeysocCodingTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mario/Desktop/MarioGithub/MarioCodingTest/KeysocCodingTest/Modules/SearchMusic/JJSearchViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "496">
+               </Location>
+               <Location
+                  uuid = "8F7D77A5-2848-4CDA-880A-7F44014D5768 - 7e30dd45296dd698"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Bool) -&gt; () in closure #1 () -&gt; () in KeysocCodingTest.JJSearchViewController.setupUI() -&gt; ()"
+                  moduleName = "KeysocCodingTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mario/Desktop/MarioGithub/MarioCodingTest/KeysocCodingTest/Modules/SearchMusic/JJSearchViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "496">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B5CB6CAF-817E-46E1-A6D2-7E3E48DBB187"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KeysocCodingTest/BaseViews/JJBaseViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "JJBaseViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "B5CB6CAF-817E-46E1-A6D2-7E3E48DBB187 - 952a4933e8b0f8d4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KeysocCodingTest.JJBaseViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "KeysocCodingTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mario/Desktop/MarioGithub/MarioCodingTest/KeysocCodingTest/BaseViews/JJBaseViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "364">
+               </Location>
+               <Location
+                  uuid = "B5CB6CAF-817E-46E1-A6D2-7E3E48DBB187 - 4b6c3c9d4868b9ed"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KeysocCodingTest.JJBaseViewController.__deallocating_deinit"
+                  moduleName = "KeysocCodingTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mario/Desktop/MarioGithub/MarioCodingTest/KeysocCodingTest/BaseViews/JJBaseViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "80">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "603B5AD8-1030-4B69-8CCC-24D586F9FE0E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KeysocCodingTest/Modules/SearchMusic/JJSearchViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "105"
+            endingLineNumber = "105"
+            landmarkName = "JJSearchViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "393E4CFC-D75B-4C0D-9831-19F2FE22632D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KeysocCodingTest/Modules/SearchMusic/SearchViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "139"
+            endingLineNumber = "139"
+            landmarkName = "SearchViewModel"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6628234E-D958-4F10-9B07-0AF92AB80EAE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KeysocCodingTest/Modules/SearchMusic/JJSearchViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "88"
+            endingLineNumber = "88"
+            landmarkName = "binding()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7C4BD36C-751C-43C0-9570-AF53C7A5569B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KeysocCodingTest/Modules/SearchMusic/JJSearchViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "03446515-DBC0-409D-A7AA-A20061A56C10"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KeysocCodingTest/Modules/SearchMusic/SearchViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "70"
+            endingLineNumber = "70"
+            landmarkName = "refreshData(completed:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
